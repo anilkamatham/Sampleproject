@@ -3,3 +3,4 @@ secondline
 thirline
 branch2
 stashexample
+stashexample4
