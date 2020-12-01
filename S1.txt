@@ -4,3 +4,4 @@ thirline
 branch2
 stashexample
 stashexample4
+6
