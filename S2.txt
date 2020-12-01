@@ -1,5 +1,5 @@
-s2 firstline
+s2 firstlinemaster
 s2 secondline
 s2 thirdline
 s3 fourthline
-branch2
+branch2master
