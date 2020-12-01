@@ -1,7 +1,7 @@
 firstline2
 secondline
 thirline
-branch2
+branch4
 stashexample
 stashexample4
 6
