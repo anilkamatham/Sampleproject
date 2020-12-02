@@ -4,3 +4,4 @@ s2 thirdline
 s3 fourthline
 branch2master
 reset
+reset6
