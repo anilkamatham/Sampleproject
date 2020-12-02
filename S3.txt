@@ -1,0 +1,8 @@
+s2 firstlinemaster
+s2 secondline
+s2 thirdline
+s3 fourthline
+branch2master
+reset
+reset6
+reset10
