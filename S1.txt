@@ -1,7 +1,12 @@
 firstline2
 secondline
 thirline
+<<<<<<< Updated upstream
+branch4
+stashexample2
+=======
 branch6
 stashexample
+>>>>>>> Stashed changes
 stashexample4
 6
